@@ -22,6 +22,7 @@ export declare class VgAPI {
     readonly isMetadataLoaded: any;
     readonly isWaiting: any;
     readonly isCompleted: any;
+    readonly isLive: any;
     readonly time: any;
     readonly buffer: any;
     readonly buffered: any;

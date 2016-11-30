@@ -13,6 +13,7 @@ export declare class VgSlides implements OnInit, IPlayable {
     isMetadataLoaded: boolean;
     isWaiting: boolean;
     isCompleted: boolean;
+    isLive: boolean;
     id: string;
     duration: number;
     currentTime: number;

@@ -18,6 +18,7 @@ export declare class VgMedia implements OnInit, IPlayable {
     isReadyToPlay: boolean;
     isWaiting: boolean;
     isCompleted: boolean;
+    isLive: boolean;
     checkInterval: number;
     currentPlayPos: number;
     lastPlayPos: number;

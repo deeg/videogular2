@@ -8,9 +8,3 @@ typings
 build
 npm-debug.log
 .DS_Store
-src/**/*.js
-src/**/*.js.map
-core.js
-controls.js
-overlay-play.js
-slides.js

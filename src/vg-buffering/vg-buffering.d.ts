@@ -10,7 +10,6 @@ export declare class VgBuffering {
     checkInterval: number;
     currentPlayPos: number;
     lastPlayPos: number;
-    bufferingDetected: boolean;
     displayState: string;
     constructor(ref: ElementRef, API: VgAPI);
     onPlayerReady(): void;

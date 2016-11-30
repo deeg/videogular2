@@ -4,6 +4,7 @@ export declare class VgEvents {
     static VG_CAN_PLAY_THROUGH: string;
     static VG_DURATION_CHANGE: string;
     static VG_EMPTIED: string;
+    static VG_ENCRYPTED: string;
     static VG_ENDED: string;
     static VG_ERROR: string;
     static VG_LOADED_DATA: string;
